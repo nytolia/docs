@@ -1,4 +1,7 @@
-# 👋 Welcome
-Official Flamepixel Documentation 
+---
+description: Official Flamepixel Documentation
+---
 
-This Website helps you how to play on the server Flamepixel.net
+# 👋 Welcome
+
+**This Website helps you how to play on the server Flamepixel.net**
