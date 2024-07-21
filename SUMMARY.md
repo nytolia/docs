@@ -12,7 +12,6 @@
 
 * [📜 Commands](global/commands.md)
 * [🌈 Name Color](global/name-color.md)
-* [Page](global/page.md)
 
 ## Citybuild
 

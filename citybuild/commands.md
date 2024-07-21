@@ -1,4 +1,4 @@
-# 🖥️ Commands
+# 📜 Commands
 
 ### Commands <a href="#commands" id="commands"></a>
 
