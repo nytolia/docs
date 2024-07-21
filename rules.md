@@ -17,3 +17,5 @@ description: >-
 9. **No Real Money Trading**: Trading involving real money is strictly prohibited. This includes the purchase, sale, or exchange of virtual goods, services, or currencies for real money. Violations of this rule will be rigorously enforced, potentially resulting in a network-wide ban and further legal action.
 
 <mark style="color:red;">**Punishment:**</mark> Breaking any of these rules will result in a permanent ban or temporary ban for up to 360 days.
+
+* More Info: [https://flamepixel.net/rules](https://www.flamepixel.net/rules)
