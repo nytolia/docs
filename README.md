@@ -4,6 +4,10 @@ description: Official Flamepixel Documentation
 
 # 👋 Welcome
 
+
+
+<figure><img src=".gitbook/assets/flametitle.png" alt=""><figcaption></figcaption></figure>
+
 **This Website helps you how to play on the server Flamepixel.net**
 
 ### About Flamepixel
