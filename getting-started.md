@@ -22,3 +22,7 @@ Flamepixel.net is **only compatible with Minecraft Java Edition**. Make sure you
 2. **Connect**: Click on the server name and then click “Join Server” to connect.
 
 And then Welcome to Flamepixel.net - Where your Adventure begins !
+
+
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaV5XVEhwiqu5dMFn9Ejn%2Fuploads%2Fc0tN7hqIltXOJIpXILWd%2F0722.gif?alt=media&token=b4382904-d055-41d0-9c23-ecf9cc37c5a1" %}
