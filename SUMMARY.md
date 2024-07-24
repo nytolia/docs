@@ -2,6 +2,7 @@
 
 * [👋 Welcome](README.md)
 * [▶️ Getting started](getting-started.md)
+* [🛒 Store](store.md)
 * [🤝 Partner Program](partner-program.md)
 * [❗ Rules](rules.md)
 * [✉️ Voting](voting.md)
