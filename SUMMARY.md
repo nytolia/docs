@@ -16,10 +16,12 @@
 ## Citybuild
 
 * [📜 Commands](citybuild/commands.md)
+* [⚔️ Clan](citybuild/clan.md)
 
 ## Adventures
 
 * [📜 Commands](adventures/commands.md)
+* [⛏️ Guild](adventures/guild.md)
 
 ## Islands
 

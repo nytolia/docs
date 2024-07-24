@@ -2,17 +2,20 @@
 
 ### Commands <a href="#commands" id="commands"></a>
 
-| Command     | Usage          | Description            |
-| ----------- | -------------- | ---------------------- |
-| spawn       | `/spawn`       | Teleports to the spawn |
-| cosmetics   | `/cosmetics`   | Cosmetics menu         |
-| shop        | `/shop`        | Shop menu              |
-| plotmanager | `/plotmanager` | Plots menu             |
-| farmworld   | `/farmworld`   | Farmworld menu         |
-| rewards     | `/rewards`     | Rewards menu           |
-| jobs        | `/jobs`        | Jobs menu              |
-| plot        | `/plot or /p`  | Plot commands          |
-| booster     | `/booster`     | Booster menu           |
+| Command     | Usage             | Description            |
+| ----------- | ----------------- | ---------------------- |
+| spawn       | `/spawn`          | Teleports to the spawn |
+| cosmetics   | `/cosmetics`      | Cosmetics menu         |
+| shop        | `/shop`           | Shop menu              |
+| plotmanager | `/plotmanager`    | Plots menu             |
+| farmworld   | `/farmworld`      | Farmworld menu         |
+| rewards     | `/rewards`        | Rewards menu           |
+| jobs        | `/jobs`           | Jobs menu              |
+| plot        | `/plot or /p`     | Plot commands          |
+| booster     | `/booster`        | Booster menu           |
+| home        | `/home`           |                        |
+| delhome     | `/delhome <name>` | Delete Home            |
+| sethome     | `/sethome <name>` | Set Home               |
 
 ### &#x20;<a href="#plot-sub-commands" id="plot-sub-commands"></a>
 
