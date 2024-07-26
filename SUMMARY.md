@@ -11,6 +11,7 @@
 
 ## Global
 
+* [💸 Daily Rewards](global/daily-rewards.md)
 * [📜 Commands](global/commands.md)
 * [🌈 Name Color](global/name-color.md)
 
