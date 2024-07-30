@@ -29,7 +29,11 @@ If you have any other questions or need further assistance, feel free to reach o
 
 
 
-### Known Bugs
+### Why does Flamepixel take so long?
 
-The leaves texture is buggy what should I do?
+Flamepixel is an Indie development which means made only by a few people.
+
+Every Update is made with Love & effort to make the best experience for the players!
+
+
 
