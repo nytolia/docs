@@ -26,3 +26,10 @@ For support:
 * **Join our Discord server** and reach out to support through the relevant channels.
 
 If you have any other questions or need further assistance, feel free to reach out through the available support channels. Enjoy your time on Flamepixel.net!
+
+
+
+### Known Bugs
+
+The leaves texture is buggy what should I do?
+

@@ -21,9 +21,9 @@ Ranks on Flamepixel.net provide players with exclusive perks and privileges that
 5. **Hero**
 6. **Titan**
 
-#### Rubys
+#### Rubies
 
-Rubys are the primary in-game currency. They can be earned through gameplay, events, or purchased directly from the store. Rubys can be used to buy a wide range of items, including cosmetics and other in-game enhancements.
+Rubies are the primary in-game currency. They can be earned through gameplay, events, or purchased directly from the store. Rubies can be used to buy a wide range of items, including cosmetics and other in-game enhancements.
 
 #### Bundles
 
