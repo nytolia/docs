@@ -8,7 +8,7 @@ The Daily Rewards System allows players to claim a random number of rubies each 
 
 
 
-<figure><img src="../.gitbook/assets/dailyrewards.png" alt=""><figcaption><p>Daily Rewards Menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dailyrewards.png" alt=""><figcaption><p>Daily Rewards Menu</p></figcaption></figure>
 
 ### Ruby Chances
 

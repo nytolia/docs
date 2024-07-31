@@ -11,7 +11,9 @@
 
 ## Global
 
-* [💸 Daily Rewards](global/daily-rewards.md)
+* [⚙️ System](global/system/README.md)
+  * [💸 Daily Rewards](global/system/daily-rewards.md)
+  * [⏳ Job System](global/system/job-system.md)
 * [📜 Commands](global/commands.md)
 * [🌈 Name Color](global/name-color.md)
 
