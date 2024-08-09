@@ -3,6 +3,7 @@
 * [👋 Welcome](README.md)
 * [▶️ Getting started](getting-started.md)
 * [⏩ General](general/README.md)
+  * [🗝️ keyshop](general/keyshop.md)
   * [🛒 Store](general/store.md)
   * [🤝 Partner Program](general/partner-program.md)
   * [❗ Rules](general/rules.md)
