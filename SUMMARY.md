@@ -8,24 +8,18 @@
 * [✉️ Voting](voting.md)
 * [🚧 Support](support.md)
 * [❓ FAQ](faq.md)
-
-## Global
-
-* [⚙️ System](global/system/README.md)
-  * [💸 Daily Rewards](global/system/daily-rewards.md)
-  * [⏳ Job System](global/system/job-system.md)
-* [📜 Commands](global/commands.md)
-* [🌈 Name Color](global/name-color.md)
-
-## Citybuild
-
-* [📜 Commands](citybuild/commands.md)
-* [⚔️ Clan](citybuild/clan.md)
-
-## Adventures
-
-* [📜 Commands](adventures/commands.md)
-* [⛏️ Guild](adventures/guild.md)
+* [🌏 Global](global/README.md)
+  * [📜 Commands](global/commands.md)
+  * [🌈 Name Color](global/name-color.md)
+* [🧡 Citybuild](citybuild/README.md)
+  * [📜 Commands](citybuild/commands.md)
+  * [⚔️ Clan](citybuild/clan.md)
+* [⚔️ Adventures](adventures/README.md)
+  * [📜 Commands](adventures/commands.md)
+  * [⛏️ Guild](adventures/guild.md)
+* [⚙️ System](system/README.md)
+  * [💸 Daily Rewards](system/daily-rewards.md)
+  * [⏳ Job System](system/job-system.md)
 
 ## Islands
 
