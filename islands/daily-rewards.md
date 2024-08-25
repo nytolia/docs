@@ -21,4 +21,4 @@ The probability of receiving each amount of coins is as follows:
 
 
 
-For more Info about Daily Rewards, please visit [here](daily-rewards.md).
+For more Info about Daily Rewards, please visit [here](../system/daily-rewards.md).
