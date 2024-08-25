@@ -19,10 +19,8 @@
 * [⚔️ Adventures](adventures/README.md)
   * [📜 Commands](adventures/commands.md)
   * [⛏️ Guild](adventures/guild.md)
+* [🌵 Islands](islands/README.md)
+  * [💰 Daily Rewards](islands/daily-rewards.md)
 * [⚙️ System](system/README.md)
   * [💸 Daily Rewards](system/daily-rewards.md)
   * [⏳ Job System](system/job-system.md)
-
-## Islands
-
-* [™️ Coming soon](islands/coming-soon.md)
