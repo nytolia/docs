@@ -10,9 +10,15 @@ To access the Keyshop, use the command `/keyshop`. This command will open a menu
 
 
 
-<figure><img src="../.gitbook/assets/keyshop1.png" alt=""><figcaption></figcaption></figure>
+<div>
 
 <figure><img src="../.gitbook/assets/keyshop2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/keyshop1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Crates and Pricing
 
@@ -35,6 +41,11 @@ Here’s a list of the available crates and the cost in rubies for each key:
 8. **Glory Crate**
    * **Special Crate**
    * **Cost:** 520 rubies
+9. **Cosmetic Crate**
+
+
+
+
 
 ### How to Buy Keys
 
