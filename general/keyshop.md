@@ -39,10 +39,10 @@ Here’s a list of the available crates and the cost in rubies for each key:
 7. **Legendary Crate**
    * **Cost:** 400 rubies
 8. **Glory Crate**
-   * **Special Crate**
    * **Cost:** 520 rubies
 9. **Cosmetic Crate**
-
+   * **Special Crate**
+   * **Cost:** 115 rubies
 
 
 
