@@ -13,6 +13,7 @@
 * [⚙️ System](system/README.md)
   * [💸 Daily Rewards](system/daily-rewards.md)
   * [⏳ Job System](system/job-system.md)
+  * [😍 Emoji System](system/emoji-system.md)
 * [🌏 Global](global/README.md)
   * [📜 Commands](global/commands.md)
   * [🌈 Name Color](global/name-color.md)
