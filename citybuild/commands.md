@@ -2,20 +2,7 @@
 
 ### Commands <a href="#commands" id="commands"></a>
 
-| Command     | Usage             | Description            |
-| ----------- | ----------------- | ---------------------- |
-| spawn       | `/spawn`          | Teleports to the spawn |
-| cosmetics   | `/cosmetics`      | Cosmetics menu         |
-| shop        | `/shop`           | Shop menu              |
-| plotmanager | `/plotmanager`    | Plots menu             |
-| farmworld   | `/farmworld`      | Farmworld menu         |
-| rewards     | `/rewards`        | Rewards menu           |
-| jobs        | `/jobs`           | Jobs menu              |
-| plot        | `/plot or /p`     | Plot commands          |
-| booster     | `/booster`        | Booster menu           |
-| home        | `/home`           |                        |
-| delhome     | `/delhome <name>` | Delete Home            |
-| sethome     | `/sethome <name>` | Set Home               |
+<table><thead><tr><th>Command</th><th width="249">Usage</th><th>Description</th></tr></thead><tbody><tr><td>spawn</td><td><code>/spawn</code></td><td>Teleports to the spawn</td></tr><tr><td>cosmetics</td><td><code>/cosmetics</code></td><td>Cosmetics menu</td></tr><tr><td>shop</td><td><code>/shop</code></td><td>Shop menu</td></tr><tr><td>plotmanager</td><td><code>/plotmanager</code></td><td>Plots menu</td></tr><tr><td>farmworld</td><td><code>/farmworld</code></td><td>Farmworld menu</td></tr><tr><td>rewards</td><td><code>/rewards</code></td><td>Rewards menu</td></tr><tr><td>jobs</td><td><code>/jobs</code></td><td>Jobs menu</td></tr><tr><td>plot</td><td><code>/plot or /p</code></td><td>Plot commands</td></tr><tr><td>booster</td><td><code>/booster</code></td><td>Booster menu</td></tr><tr><td>home</td><td><code>/home</code></td><td></td></tr><tr><td>delhome</td><td><code>/delhome &#x3C;name></code></td><td>Delete Home</td></tr><tr><td>sethome</td><td><code>/sethome &#x3C;name></code></td><td>Set Home</td></tr></tbody></table>
 
 ### &#x20;<a href="#plot-sub-commands" id="plot-sub-commands"></a>
 
