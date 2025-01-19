@@ -6,9 +6,9 @@ description: >-
 
 # 💚 Healthbar System
 
-The Custom Health Bar System in Minecraft provides a dynamic health display for mobs, visible above the mob's head whenever a player looks at it. This health bar system allows players to see real-time updates on mob health, including the damage they deal, making combat interactions more immersive and informative. This system is limited to mobs, ensuring it doesn’t clutter the interface when players are viewing each other.
+The Bossbar Health Bar System in Minecraft provides a dynamic health display for mobs, visible above the mob's head whenever a player looks at it. This health bar system allows players to see real-time updates on mob health, including the damage they deal, making combat interactions more immersive and informative. This system is limited to mobs, ensuring it doesn’t clutter the interface when players are viewing each other.
 
-<figure><img src="../.gitbook/assets/healthbar.png" alt=""><figcaption><p>Healthbar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/healthbar (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Features**
 
@@ -21,11 +21,6 @@ The Custom Health Bar System in Minecraft provides a dynamic health display for 
 
 * **Enhanced PvE Combat**: By showing players exactly how much health a mob has left, this system enhances combat depth and strategy. Players can better manage their attacks and resources, especially in boss fights or against mobs with high health.
 * **Damage Output Feedback**: For players who want to optimize their gear or skills, seeing real-time damage output can be valuable in assessing weapon effectiveness or evaluating enchantment setups.
-
-### **Limitations**
-
-* **Performance Impact**: While optimized, the system may still have a minor impact on performance, especially in mob-heavy areas. Properly handling the activation range and frequency of updates is key to maintaining server performance.
-* **Restricted to Mobs Only**: This system doesn’t apply to players, limiting its use in PvP scenarios. However, this restriction helps focus the display on mob encounters and avoid UI clutter in player interactions.
 
 ### **Conclusion**
 

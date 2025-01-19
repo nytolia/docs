@@ -8,7 +8,7 @@ description: >-
 
 ### **What is Flamepixel.net?**
 
-Flamepixel.net is a Minecraft server offering a range of gameplay modes including RPG and Skyblock. Join us to explore unique adventures, build amazing cities, or survive on floating islands.
+Flamepixel.net is a Minecraft server offering a range of gameplay modes including Survival RPG and Islands (Skyblock). Join us to explore unique adventures, build amazing cities, or survive on floating islands.
 
 ### **Is Flamepixel.net compatible with Minecraft Bedrock Edition?**
 
@@ -37,7 +37,13 @@ Every Update is made with Love & effort to make the best experience for the play
 
 
 
-### Text effects are so buggy, Healthbar doesn't work?
+### Textures are so buggy, doesn't work?
 
 By using a minecraft shader you override minecraft shaders, that means the resourcepack break because it's working with shaders. We recommend to play without a shader.
+
+If you have some join problems, please open a ticket through our website. Please make also sure you don't use these mods/shaders:
+
+* ViaFabric/Plus
+* ImmediatelyFast
+* more...
 
