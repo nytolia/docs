@@ -21,6 +21,7 @@
   * [🔋 Level System](system/level-system.md)
   * [🔮 Mana System](system/mana-system.md)
 * [🌏 Global](global/README.md)
+  * [😃 Emoji](global/emoji.md)
   * [📜 Commands](global/commands.md)
   * [🌈 Name Color](global/name-color.md)
 * [⚔️ Adventures](adventures/README.md)
