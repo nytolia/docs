@@ -4,7 +4,7 @@ description: Overview about the Jobs System
 
 # ⏳ Job System
 
-Flamepixel use a job system that allows players to take on specific roles to gather resources and earn rewards.
+Nytolia use a job system that allows players to take on specific roles to gather resources and earn rewards.
 
 ## **Joining/Leaving a Job**
 
@@ -16,7 +16,7 @@ To join/leave a job, you can use the following command:
 
 It will open a menu where you can select your job!
 
-<figure><img src="../../.gitbook/assets/jobs.png" alt=""><figcaption><p>Jobs Menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/jobs.png" alt=""><figcaption><p>Jobs Menu</p></figcaption></figure>
 
 ## **Earning Rewards**
 

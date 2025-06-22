@@ -1,16 +1,16 @@
 ---
 description: >-
-  Need help or want to report an issue? Visit flamepixel.net/support to report
-  bugs or players directly.
+  Need help or want to report an issue? Visit nytolia.net/support to report bugs
+  or players directly.
 ---
 
 # 🚧 Support
 
-## Support and Reporting Issues on Flamepixel.net
+## Support and Reporting Issues on Nytolia.net
 
 Reporting Bugs and Players via the Support Page
 
-Visit the Support Page: Go to [<mark style="color:orange;">flamepixel.net/support</mark>](https://flamepixel.net/support).
+Visit the Support Page: Go to <mark style="color:purple;">nytolia</mark>[<mark style="color:purple;">.net/support</mark>](https://www.nytolia.net/support).
 
 **Select** the Type of _Report_: Choose whether you are reporting a bug or a player.&#x20;
 

@@ -6,11 +6,11 @@ description: >-
 
 # 🛒 Store
 
-The Flamepixel.net Store offers a diverse range of products designed to enhance your gameplay. These products include ranks, cosmetics, and various currencies. Here, you'll find detailed information about each type of product and how they can benefit your experience on Flamepixel.net.
+The Nytolia.net Store offers a diverse range of products designed to enhance your gameplay. These products include ranks, cosmetics, and various currencies. Here, you'll find detailed information about each type of product and how they can benefit your experience on Nytolia.net.
 
 ### Ranks
 
-Ranks on Flamepixel.net provide players with exclusive perks and privileges that enhance their in-game experience. Each rank comes with its own set of benefits, which may include access to special areas, unique commands & more, but do not provide any gameplay advantages for the player.
+Ranks on Nytolia.net provide players with exclusive perks and privileges that enhance their in-game experience. Each rank comes with its own set of benefits, which may include access to special areas, unique commands & more, but do not provide any gameplay advantages for the player.
 
 #### Available Ranks
 
@@ -31,7 +31,7 @@ Bundles are special packs that contain a variety of cosmetics, offering a compre
 
 ### Cosmetics
 
-Cosmetics on Flamepixel.net allow players to customize their in-game appearance and stand out from the crowd. These items do not provide any gameplay advantages but are a fun way to express your personal style.
+Cosmetics on Nytolia.net allow players to customize their in-game appearance and stand out from the crowd. These items do not provide any gameplay advantages but are a fun way to express your personal style.
 
 1. **Cosmetics**
    * Change your character's appearance with a variety of cosmetics.
@@ -42,7 +42,7 @@ Cosmetics on Flamepixel.net allow players to customize their in-game appearance 
 
 ### How to Purchase & Redeem
 
-1. **Visit the Store**: Go to [<mark style="color:orange;">https://flamepixel.net/store/</mark>](https://www.flamepixel.net/store/).
+1. **Visit the Store**: Go to [<mark style="color:purple;">https://nytolia.net/store/</mark>](https://www.nytolia.net/store/).
 2. **Username**: Enter your minecraft username
 3. **Select Items**: Browse through the available ranks, currencies, and cosmetics.
 4. **Add to Cart**: Add your desired items to the shopping cart.
@@ -54,5 +54,5 @@ Cosmetics on Flamepixel.net allow players to customize their in-game appearance 
 
 If you encounter any issues or have questions about your purchases, please contact FlamePixel.net support. Our support team is available to assist you with any inquiries and ensure you have the best possible experience.
 
-* **Support Email**: [<mark style="color:orange;">support@flamepixel.net</mark>](mailto:%20support@flamepixel.net)
-* **Support Ticket System**: [<mark style="color:orange;">https://flamepixel.net/support</mark>](https://flamepixel.net/support).
+* **Support Email**: [<mark style="color:purple;">support@nytolia.net</mark>](mailto:%20support@nytolia.net)
+* **Support Ticket System**: [<mark style="color:purple;">https://nytolia.net/support</mark>](https://nytolia.net/support).
