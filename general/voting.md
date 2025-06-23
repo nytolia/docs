@@ -28,7 +28,7 @@ After successfully submitting your vote, you will receive a Vote Key. This key a
 
 **4. Claim Your Rewards**
 
-Log in to Flamepixel.net and use your Vote Key to open the crate. The crate contains various rewards, such as in-game currency, items, and other bonuses.
+Log in to Nytolia.net and use your Vote Key to open the crate. The crate contains various rewards, such as in-game currency, items, and other bonuses.
 
 
 
