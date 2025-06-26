@@ -21,8 +21,8 @@ description: Here you can find how to join our server!
 1. **Select Server**: From the Multiplayer menu, find **Nytolia**.net in your server list.
 2. **Connect**: Click on the server name and then click “Join Server” to connect.
 
-And then Welcome to **Nytolia**.net - Where your Journey begins !
+And then Welcome to **Nytolia**.net !
 
 
 
-{% embed url="http://cdn.nytolia.net/uploads/ygEyKa.mp4" %}
+<figure><img src=".gitbook/assets/MedalTVMinecraft20250622121207-tr-edit.gif" alt=""><figcaption></figcaption></figure>

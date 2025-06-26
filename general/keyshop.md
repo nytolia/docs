@@ -8,17 +8,7 @@ description: A list of available crates, their costs, and instructions on how to
 
 To access the Keyshop, use the command `/keyshop`. This command will open a menu where you can purchase keys for different types of crates. Each crate type requires a different number of rubies, the in-game currency, except for the Vote crate, which is only available through voting for the server.
 
-
-
-<div>
-
-<figure><img src="../.gitbook/assets/keyshop2.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/keyshop1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/keyshop2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/keyshop1.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Crates and Pricing
 
@@ -44,9 +34,6 @@ Here’s a list of the available crates and the cost in rubies for each key:
    * **Special Crate**
    * **Cost:** 115 rubies
 
-
-
-
 ### How to Buy Keys
 
 1. Type `/keyshop` in the chat.
@@ -56,7 +43,7 @@ Here’s a list of the available crates and the cost in rubies for each key:
 
 ### Obtaining Rubies
 
-Rubies, the currency required to purchase keys, can be obtained through the server's store page. Visit the [Store Site](https://flamepixel.net/store) and purchase rubies using real-world money. This allows you to acquire the necessary rubies to buy keys for the crates of your choice.
+Rubies, the currency required to purchase keys, can be obtained through the server's store page. Visit the [<mark style="color:purple;">Store Site</mark>](https://nytolia.net/store) and purchase rubies using real-world money. This allows you to acquire the necessary rubies to buy keys for the crates of your choice.
 
 ### Reminding
 

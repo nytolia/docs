@@ -12,15 +12,15 @@ description: >-
 
 Visit [<mark style="color:purple;">nytolia.net/vote</mark>](https://www.nytolia.net/vote) to begin the voting process.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-06-22 122337.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/grafik.png" alt=""><figcaption></figcaption></figure>
 
 **2. Submit Your Minecraft Username**
 
 You will be redirected to a voting site where you need to enter your Minecraft username. This is necessary to validate your vote and link it to your account.
 
+<figure><img src="../.gitbook/assets/grafik (1).png" alt=""><figcaption></figcaption></figure>
 
 
-<figure><img src="../.gitbook/assets/how-to-vote2.png" alt=""><figcaption></figcaption></figure>
 
 **3. Receive Your Vote Key**
 
