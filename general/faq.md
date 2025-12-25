@@ -16,7 +16,7 @@ No, Nytolia.net is only compatible with Minecraft Java Edition. Please ensure yo
 
 ### Where can I find updates and news about the server?
 
-Stay updated by following our [<mark style="color:purple;">Blog Site</mark>](https://nytolia.net/blog) or [<mark style="color:purple;">Forum Site</mark>](https://forum.nytolia.net/), joining our Discord server and following us on social media.
+Stay updated by following our [<mark style="color:purple;">Blog Site</mark>](https://nytolia.net/blog), joining our Discord server and following us on social media.
 
 ### **How do I contact support?**
 
@@ -31,9 +31,9 @@ If you have any other questions or need further assistance, feel free to reach o
 
 ### Why does Nytolia take so long?
 
-Nytolia is an Indie development which means made only by a few trusted people.
+Nytolia is an Indie development which means made only by a few people.
 
-Every Update is made with Love & effort to make the best experience for the players!
+Every update is made with love & effort to make the best experience for the players!
 
 
 
@@ -45,5 +45,5 @@ If you have some join problems, please open a ticket through our website. Please
 
 * ViaFabric/Plus
 * ImmediatelyFast
-* more...
+* other shaders or mods...
 
