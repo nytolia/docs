@@ -20,4 +20,4 @@ Here's what you can look forward to:
 
 ### **Join Now!**
 
-Don't miss out on this opportunity to become an integral part of the Nytolia.net community. Join our Partner Program today and start enjoying these amazing benefits. Apply now via [<mark style="color:purple;">Partner Application</mark>](https://www.nytolia.net/partner-appeal)[ ](https://www.flamepixel.net/partner-appeal)and take your content creation to the next level!
+Don't miss out on this opportunity to become an integral part of the Nytolia.net community. Join our Partner Program today and start enjoying these amazing benefits. Apply now via [<mark style="color:purple;">Partner Application</mark>](https://www.nytolia.net/partner-appeal) and take your content creation to the next level!

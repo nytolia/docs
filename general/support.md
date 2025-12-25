@@ -10,7 +10,7 @@ description: >-
 
 Reporting Bugs and Players via the Support Page
 
-Visit the Support Page: Go to <mark style="color:purple;">nytolia</mark>[<mark style="color:purple;">.net/support</mark>](https://www.nytolia.net/support).
+Visit the Support Page: Go to [<mark style="color:purple;">nytolia.net/support</mark>](https://nytolia.net/support).
 
 **Select** the Type of _Report_: Choose whether you are reporting a bug or a player.&#x20;
 
