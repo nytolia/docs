@@ -2,13 +2,13 @@
 description: Overview about the Daily Rewards System
 ---
 
-# 💸 Daily Rewards
+# 💎 Daily Rewards (rubies)
 
-The Daily Rewards System allows players to claim a random number of rubies each day by using the `/daily` command. The number of rubies awarded ranges from 1 to 10, with the chances of receiving higher amounts being significantly lower. Players can use this command on themselves or specify another player to receive the rewards.
+The Daily Rewards System allows players to claim a random number of rubies each day by using the `/rewards` command. The number of rubies awarded ranges from 1 to 10, with the chances of receiving higher amounts being significantly lower. Players can use this command on themselves or specify another player to receive the rewards.
 
 
 
-<figure><img src="../../.gitbook/assets/dailyrewards.png" alt=""><figcaption><p>Daily Rewards Menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dailyrewards.png" alt=""><figcaption><p>Daily Rewards Menu</p></figcaption></figure>
 
 ### Ruby Chances
 
@@ -27,9 +27,9 @@ The probability of receiving each amount of rubies is as follows:
 
 ### Command Usage
 
-#### `/daily`
+#### `/rewards`
 
-When a player uses the `/daily` command, they will receive a random amount of rubies based on the chances outlined above. If no player is specified, the command will reward the player who issued the command.
+When a player uses the `/rewards` command, they will receive a random amount of rubies based on the chances outlined above. If no player is specified, the command will reward the player who issued the command.
 
 ### Cooldown
 
