@@ -18,8 +18,7 @@ Ranks on Nytolia.net provide players with exclusive perks and privileges that en
 2. **Premium (monthly)**
 3. **Elite**
 4. **Ultra**
-5. **Hero**
-6. **Titan**
+5. **Titan**
 
 #### Rubies
 
@@ -35,10 +34,8 @@ Cosmetics on Nytolia.net allow players to customize their in-game appearance and
 
 1. **Cosmetics**
    * Change your character's appearance with a variety of cosmetics.
-2. **Pets (soon...)**
+2. **Pets**
    * Summon unique pets to accompany you on your adventures.
-3. **Particle Effects (soon...)**
-   * Add visual effects to your character for an extra flair.
 
 ### How to Purchase & Redeem
 

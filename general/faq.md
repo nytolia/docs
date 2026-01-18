@@ -8,15 +8,21 @@ description: >-
 
 ### **What is** Nytoli&#x61;**.net?**
 
-Nytolia.net is a Minecraft server offering a range of gameplay modes including Survival RPG and Islands (Skyblock). Join us to explore unique adventures, build amazing cities, or survive on floating islands.
+Nytolia.net is a Minecraft server offering a gamemode called Adventures. Join us to explore unique adventures and build amazing cities.
+
+
 
 ### **Is** Nytoli&#x61;**.net compatible with Minecraft Bedrock Edition?**
 
 No, Nytolia.net is only compatible with Minecraft Java Edition. Please ensure you are using the Java Edition to join our server.
 
+
+
 ### Where can I find updates and news about the server?
 
 Stay updated by following our [<mark style="color:purple;">Blog Site</mark>](https://nytolia.net/blog), joining our Discord server and following us on social media.
+
+
 
 ### **How do I contact support?**
 
@@ -26,14 +32,6 @@ For support:
 * **Join our Discord server** and reach out to support through the relevant channels.
 
 If you have any other questions or need further assistance, feel free to reach out through the available support channels. Enjoy your time on Nytolia.net!
-
-
-
-### Why does Nytolia take so long?
-
-Nytolia is an Indie development which means made only by a few people.
-
-Every update is made with love & effort to make the best experience for the players!
 
 
 

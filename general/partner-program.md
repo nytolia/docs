@@ -13,10 +13,9 @@ We're excited to introduce our Partner Program. Join now and unlock a variety of
 Here's what you can look forward to:
 
 * **Personal 10% Discount Code**: Share a unique 10% discount code with your audience.
-* **Website Recognition**: Get featured on our website. Check it out [<mark style="color:purple;">here</mark>](https://www.nytolia.net/partner/).
+* **Website Recognition**: Get featured on our website. Check out [<mark style="color:purple;">here</mark>](https://www.nytolia.net/partner/).
 * **Custom Cosmetic Item**: Receive a custom cosmetic item on the server to showcase your partnership.
-* **Exclusive Roles**: Gain the Partner role on both our Discord server and in Minecraft.
-* **Creator to Partner Transition**: Upgrade from Creator to Partner with additional perks.
+* **Exclusive Roles**: Gain the Partner role on our Discord server and get a partner badge on our minecraft server.
 
 ### **Join Now!**
 

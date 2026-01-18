@@ -10,4 +10,6 @@ description: Official Nytolia Documentation
 
 ### About Nytolia
 
-**Nytolia**.net is a dynamic Minecraft server offering a variety of engaging gameplay modes, including Adventures and Islands. Players can immerse themselves in unique adventures, from exploring expansive cityscapes and constructing their dream buildings in Adventures, to thriving on floating islands and tackling the challenges of Skyblock. **Nytolia**.net provides a vibrant community and diverse experiences, making it an ideal destination for Minecraft enthusiasts looking to explore, build, and conquer new challenges.
+**Nytolia**.net is a dynamic Minecraft server offering a custom minecraft survival server. Players can immerse themselves in unique adventures, from exploring expansive cityscapes and constructing their dream buildings in Adventures.&#x20;
+
+**We** provide a vibrant community and diverse experiences, making it an ideal destination for Minecraft enthusiasts looking to explore, build, and conquer new challenges.
