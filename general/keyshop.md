@@ -8,7 +8,7 @@ description: A list of available crates, their costs, and instructions on how to
 
 To access the Keyshop, use the command `/keyshop`. This command will open a menu where you can purchase keys for different types of crates. Each crate type requires a different number of rubies, the in-game currency, except for the Vote crate, which is only available through voting for the server.
 
-<div><figure><img src="../.gitbook/assets/keyshop2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/keyshop1.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/grafik.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/grafik (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Crates and Pricing
 
@@ -18,21 +18,22 @@ Here’s a list of the available crates and the cost in rubies for each key:
    * **Cost:** 24 rubies
 2. **Uncommon Crate**
    * **Cost:** 36 rubies
-3. **Vote Crate**
-   * **Availability:** Only available by voting for the server (cannot be purchased).
-4. **Rare Crate**
+3. **Rare Crate**
    * **Cost:** 50 rubies
-5. **Epic Crate**
+4. **Epic Crate**
    * **Cost:** 80 rubies
-6. **Mythic Crate**
-   * **Cost:** 120 rubies
+5. **Vote Crate**
+   * **Availability:** Only available by voting for the server (cannot be purchased).
+6. **Cosmetic Crate**
+   * **Cost: 115** rubies
 7. **Legendary Crate**
-   * **Cost:** 400 rubies
-8. **Glory Crate**
-   * **Cost:** 520 rubies
-9. **Cosmetic Crate**
-   * **Special Crate**
-   * **Cost:** 115 rubies
+   * **Cost: 180** rubies
+8.  **Mythic Crate**
+
+    * **Special Crate&#x20;**<mark style="color:$success;">**\[LIMITED TIME]**</mark>
+    * **Cost:** **245** rubies
+
+
 
 ### How to Buy Keys
 
@@ -43,8 +44,4 @@ Here’s a list of the available crates and the cost in rubies for each key:
 
 ### Obtaining Rubies
 
-Rubies, the currency required to purchase keys, can be obtained through the server's store page. Visit the [<mark style="color:purple;">Store Site</mark>](https://nytolia.net/store) and purchase rubies using real-world money. This allows you to acquire the necessary rubies to buy keys for the crates of your choice.
-
-### Reminding
-
-It's important to note that crates and keys can also be earned through regular gameplay. By participating in events, completing challenges, or simply spending time on the server, you can farm the necessary items without needing to purchase anything. The system is designed to ensure that all players have a fair chance to enjoy the rewards, whether they choose to buy rubies or earn them through play.
+Rubies, the currency required to purchase keys, can be obtained through regular gameplay or the [<mark style="color:$primary;">store page</mark>](https://nytolia.net/store).&#x20;

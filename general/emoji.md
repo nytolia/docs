@@ -57,15 +57,7 @@ description: Here you can see a overview about emojis.
 * **:troll:** - Troll face emoji
 * **:zerotwo:** - Zero Two anime character emoji
 
-### Ultra Emojis
-
-* **:crythumbsup:** - Crying thumbs up emoji
-* **:flushed:** - Flushed face emoji
-* **:gigachad:** - Giga Chad meme emoji
-* **:pepeexit:** - Pepe the Frog exiting emoji
-* **:pepeunicorn:** - Pepe the Frog unicorn emoji
-
-### Elite / Premium Emojis
+### Premium Emojis
 
 * **:kek:** - Kek laughing emoji
 * **:pepe\_diamond\_sword:** - Pepe with a diamond sword emoji
@@ -81,6 +73,14 @@ description: Here you can see a overview about emojis.
 * **:pepetux:** - Pepe in a tuxedo emoji
 * **:pepeyes:** - Pepe with wide eyes emoji
 * **:pepeangry:** - Angry Pepe emoji
+
+### Ultra Emojis
+
+* **:crythumbsup:** - Crying thumbs up emoji
+* **:flushed:** - Flushed face emoji
+* **:gigachad:** - Giga Chad meme emoji
+* **:pepeexit:** - Pepe the Frog exiting emoji
+* **:pepeunicorn:** - Pepe the Frog unicorn emoji
 
 ### Titan Emojis
 

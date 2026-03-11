@@ -43,5 +43,6 @@ If you have some join problems, please open a ticket through our website. Please
 
 * ViaFabric/Plus
 * ImmediatelyFast
+* Iris shaders
 * other shaders or mods...
 

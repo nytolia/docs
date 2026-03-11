@@ -16,9 +16,8 @@ Ranks on Nytolia.net provide players with exclusive perks and privileges that en
 
 1. **Pro**
 2. **Premium (monthly)**
-3. **Elite**
-4. **Ultra**
-5. **Titan**
+3. **Ultra**
+4. **Titan**
 
 #### Rubies
 

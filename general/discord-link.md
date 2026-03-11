@@ -35,7 +35,7 @@ Linking or unlinking your accounts only takes a few moments.
 
 ***
 
-### Rank & Role Synchronization
+### Rank Synchronization
 
 Once your accounts are linked:
 
@@ -46,23 +46,8 @@ Once your accounts are linked:
 
 ***
 
-### Troubleshooting
-
-**I didn’t receive my Discord role**
-
-* Make sure your accounts are linked
-* Rejoin the minecraft server
-* Contact staff if the issue persists \[[<mark style="color:purple;">Contact us</mark>](https://nytolia.net/support)]
-
-**I linked the wrong account**
-
-* Use `/discord unlink`
-* Repeat the linking process with the correct account
-
-***
-
 ### Notes
 
 * Each Minecraft account can only be linked to **one Discord account**
-* Linking is optional but recommended
+* Linking is optional&#x20;
 * Staff will never ask for your password

@@ -4,7 +4,7 @@ The Daily Rewards System allows players to claim a random number of coins each d
 
 
 
-<figure><img src="../.gitbook/assets/grafik (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/grafik (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Coins Chances
 
