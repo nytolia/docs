@@ -16,7 +16,7 @@ Your temperature isn't just a static number; it is a dynamic value influenced by
 
 #### 1. Biomes & Seasons
 
-Every biome has a base temperature. While a Desert (`40.83°C`) is naturally scorching, Ice Spikes start at a freezing `-6.34°C`. The current Season will shift these base values up or down.
+Every biome and season has a base temperature. In every season the temperature might change look at [<mark style="color:$primary;">Season System</mark>](../system/season-system.md) for more info.
 
 #### 2. Environmental Factors
 
@@ -33,14 +33,14 @@ Every biome has a base temperature. While a Desert (`40.83°C`) is naturally sco
 
 ***
 
-#### ❄️ In Extreme Cold (Frostbite Risk)
+#### ❄️ In Extreme Cold
 
 * Heat Sources: Stay close to torches, lit furnaces, or campfires.
 * Insulation: Wear a full set of armor to trap body heat.
 * Shelter: Go underground or stay inside buildings to block the wind and height modifiers.
 * Stay Active: Keep sprinting to slightly raise your core temperature.
 
-#### ☀️ In Extreme Heat (Heatstroke Risk)
+#### ☀️ In Extreme Heat
 
 * Cool Down: Jump into a river or the ocean.
 * Seek Shade: Avoid direct sunlight; stay under trees or inside caves.
