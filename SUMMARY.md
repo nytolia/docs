@@ -31,5 +31,5 @@
   * [📀 Waystone System](system/waystone-system.md)
   * [🔋 Level System](system/level-system.md)
 * [💜 Items](items/README.md)
-  * [🪞 Mirror of Kalandra](items/mirror-of-kalandra.md)
+  * [🪞 Mirror of Kalandra](system/mana-system.md)
   * [🌡️ Thermometer](items/thermometer.md)
