@@ -8,11 +8,7 @@ It is a land of floating islands, serving as the bridge between all known worlds
 
 ### Aurelius: The Rift Guardian
 
-Standing at the very center of the World Tree is the most important figure in the realm: Astraea.
-
-> _"The threads of reality are tangled, traveler. Tell me, which knot shall we untie today?"_ — Astraea
-
-Aurelius is an ancient old man tasked with maintaining the balance between dimensions. He serves as the Primary Teleportation Hub for the server. By interacting with him, players can access the various "Rifts" that lead to other worlds.
+Aurelius is an ancient old man tasked with maintaining the balance between dimensions. He serves as the Primary Teleportation Hub for the server. By interacting with him, players can access the various Rifts that lead to other worlds.
 
 #### Navigation Menu
 
